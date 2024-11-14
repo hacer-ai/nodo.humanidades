@@ -58,13 +58,7 @@ st.write("""<img height="120" src="https://es.nodoeafit.com/wp-content/uploads/2
 st.markdown(
     """
     <style>
-    .css-1jc7ptx, .e1ewe7hr3, .viewerBadge_container__1QSob,
-    .styles_viewerBadge__1yB5_, .viewerBadge_link__1S137,
-    .viewerBadge_text__1JaDK, .stDeployButton, .stAppToolbar, 
-    _viewerBadge_nim44_23, _profileContainer_51w34_53,  
-    a[href$='https://share.streamlit.io/user/camilou'],
-    a[href$='https://streamlit.io/cloud']    
-    {
+    .css-1jc7ptx, .e1ewe7hr3, .viewerBadge_container__1QSob, .styles_viewerBadge__1yB5_, .viewerBadge_link__1S137, .viewerBadge_text__1JaDK, .stDeployButton, .stAppToolbar, _viewerBadge_nim44_23, _profileContainer_51w34_53, a[href$='https://share.streamlit.io/user/camilou'], a[href$='https://streamlit.io/cloud'] {
         display: none;
     }
     </style>
